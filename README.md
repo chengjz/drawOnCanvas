@@ -1,6 +1,6 @@
 # drawOnCanvas
 
-Create, test, and upload a JavaScript program that allows a person to draw on a Canvas object, using different colors and sizes, as well as the ability to clear a screen. This assignment is a simplified version of https://www.w3schools.com/graphics/game_intro.asp (Links to an external site.)Links to an external site. but will still require some research.
+Create, test, and upload a JavaScript program that allows a person to draw on a Canvas object, using different colors and sizes, as well as the ability to clear a screen. 
 
 ## Steps:
 
